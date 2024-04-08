@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f335101.css",
+    "main.js": "/static/js/main.97b77885.js",
+    "static/media/nature.jpg": "/static/media/nature.f340dbb9785db0113517.jpg",
+    "static/media/mangueT.png": "/static/media/mangueT.1af361372e26b99a43e2.png",
+    "static/media/pommeT.png": "/static/media/pommeT.e0deed980e7995cc5a44.png",
+    "static/media/r4.png": "/static/media/r4.ff0a5e8710656163b2c3.png",
+    "static/media/citronT.png": "/static/media/citronT.0f3921db357f5a472843.png",
+    "static/media/bananneT.png": "/static/media/bananneT.25ff750ba7b1a66d66c1.png",
+    "static/media/r2.png": "/static/media/r2.c67fbe9efc46e62c1eea.png",
+    "static/media/r1.png": "/static/media/r1.1a27dc6cb47ea1b7a825.png",
+    "static/media/r3.png": "/static/media/r3.01b53c8b6073be2c2ceb.png",
+    "static/media/enfantT.png": "/static/media/enfantT.68e25f7fcb3ca315c04d.png",
+    "static/media/animais-de-exploração-agrícola-com-carneiros-41997646.webp": "/static/media/animais-de-exploração-agrícola-com-carneiros-41997646.2d81633afeae7a2cbea5.webp",
+    "static/media/GIF.svg": "/static/media/GIF.adab2af80df5934a5a290a4b44ff324c.svg",
+    "static/media/bomb.svg": "/static/media/bomb.fd2bb3f26d0b11cea5f5675a7283f891.svg",
+    "index.html": "/index.html",
+    "static/media/heart.svg": "/static/media/heart.3fce57d31583e9a33c83f2dc7755ae65.svg",
+    "static/media/heartA.svg": "/static/media/heartA.76f78737807c45fee0d48cd3cadfe6a7.svg",
+    "static/media/backIcon.svg": "/static/media/backIcon.25212cca09c654580b959a68f49cbf86.svg",
+    "main.5f335101.css.map": "/static/css/main.5f335101.css.map",
+    "main.97b77885.js.map": "/static/js/main.97b77885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f335101.css",
+    "static/js/main.97b77885.js"
+  ]
+}
